@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\DatabaseBilgiYarışması\DatabaseBilgiYarışması\bin\Debug\DatabaseBilgiYarışması.exe.config
+C:\Users\Eren\source\repos\DatabaseBilgiYarışması\DatabaseBilgiYarışması\bin\Debug\DatabaseBilgiYarışması.exe
+C:\Users\Eren\source\repos\DatabaseBilgiYarışması\DatabaseBilgiYarışması\bin\Debug\DatabaseBilgiYarışması.pdb
+C:\Users\Eren\source\repos\DatabaseBilgiYarışması\DatabaseBilgiYarışması\obj\Debug\DatabaseBilgiYarışması.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\DatabaseBilgiYarışması\DatabaseBilgiYarışması\obj\Debug\DatabaseBilgiYarışması.Form1.resources
+C:\Users\Eren\source\repos\DatabaseBilgiYarışması\DatabaseBilgiYarışması\obj\Debug\DatabaseBilgiYarışması.Properties.Resources.resources
+C:\Users\Eren\source\repos\DatabaseBilgiYarışması\DatabaseBilgiYarışması\obj\Debug\DatabaseBilgiYarışması.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\DatabaseBilgiYarışması\DatabaseBilgiYarışması\obj\Debug\DatabaseBilgiYarışması.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\DatabaseBilgiYarışması\DatabaseBilgiYarışması\obj\Debug\DatabaseBilgiYarışması.exe
+C:\Users\Eren\source\repos\DatabaseBilgiYarışması\DatabaseBilgiYarışması\obj\Debug\DatabaseBilgiYarışması.pdb
